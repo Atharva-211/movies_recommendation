@@ -47,7 +47,7 @@ def recommend(movie):
 # Load data
 movies_dict = pickle.load(open('movie_dict.pkl', 'rb'))
 movies = pd.DataFrame(movies_dict)
-similarity_file_parts = ['movies_FE/similarity.pkl_part0', 'movies_FE/similarity.pkl_part0']
+similarity_file_parts = ['movies_FE/similarity.pkl_part0', 'movies_FE/similarity.pkl_part1']
 similarity = load_split_pickle(similarity_file_parts)
 
 # Page config
