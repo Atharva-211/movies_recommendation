@@ -44,8 +44,8 @@ movies = pd.DataFrame(movies_dict)
 
 # Specify file paths for the split similarity matrix
 similarity_file_parts = [
-    'similarity.pkl_part0',
-    'similarity.pkl_part1'
+    'movies_FE/similarity.pkl_part0',
+    'movies_FE/similarity.pkl_part1'
 ]
 
 # Load similarity matrix from split files
