@@ -110,6 +110,7 @@ st.markdown("""
     <hr>
     <footer style="text-align: center; font-size: 14px;">
         Created with ❤️ using Streamlit. <br>
-        Powered by TMDB API.
+        Powered by TMDB API. <br>
+        © 2024 Atharva Gaikwad
     </footer>
 """, unsafe_allow_html=True)
