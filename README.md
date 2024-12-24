@@ -1,5 +1,8 @@
 Movie Recommender System
 
+![WhatsApp Image 2024-12-25 at 02 58 34_b5a0576a](https://github.com/user-attachments/assets/ef014adc-e5ab-4c14-852e-af9c6e1be978)
+
+
 Welcome to the Movie Recommender System – an application built to enhance your movie-watching experience by recommending films based on your preferences. Whether you're into action-packed thrillers or heartwarming dramas, this system will find the perfect movies for you.
 
 Overview
